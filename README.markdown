@@ -2,7 +2,7 @@
 ## 小標題
 ### 小小標題
 This is **bold** *italic* text sample.
-This is a [hyperlink](https://github.com).
+This is a [hyperlink](More.MD).
 ---
 > Gruber is from Philadelphia, Pennsylvania. He received his Bachelor of Science in computer science from Drexel University, then worked for Bare Bones Software (2000–02) and Joyent (2005–06).
 >
